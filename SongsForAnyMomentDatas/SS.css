@@ -1,0 +1,98 @@
+header{
+		font-size:40px;
+		}
+		body{
+				font-family: "Comic Sans MS","Comic Sans";
+				background-color:#ffffdd;
+		}
+		 .contain-pink{
+		  background-color:#ffddff;
+		  text-align:center;
+		  width:90%;
+		  height:90px;
+		  margin-left: auto;
+		  text-align: lbottom;
+		  margin-right: auto;
+		 }	
+		 .contain-blue{
+		  background-color:#ddffff	;
+		  width:30%; 
+		  float: left;
+		  border:3px solid white;
+		  border-radius: 20px;
+		  font-size:30px;
+		  
+		 }
+		 .textagot{
+			 background-color:#ddffff;
+			 margin-left: auto;
+		  text-align: lbottom;
+		  margin-right: auto;
+		  width:50%;	
+		  border-radius:20px;
+		  text-align:center;
+		  border:10px solid #ffddff;	
+		  
+			 
+		 }
+		 
+		 
+			 iframe{
+				 width:45%;
+		 float:right;
+		 border:40px solid #ffffdd;}	
+		 footer {
+		 background-color:#ffddff;
+		  text-align:center;
+		  width:45%; 
+		  text-align: lbottom;
+			 }
+			 
+		 .contain-w{
+			 
+			 width:30%; 
+		  float: left;
+		  border:3px solid white;
+		 }
+		 .contain-blue:hover{
+		  background-color:#dddfff;
+		  
+		  
+		 }
+		 .contain-blue:hover  .ab{
+		  display:block;
+		  
+		 }
+		 .ab{
+		 background-color:#ffffdd;
+		padding: 20px;	
+		display: none;
+		}
+		 .puzzles{
+		  margin-right: 250	px;
+		  margin-left: auto;	
+	margin-right: auto;		  
+		  text-align:center;
+		  height:200px;
+		   text-align: lbottom;
+		   width:80%;
+		  }
+		 a{
+		   color: black;
+		 }
+		 img{width:45%;
+		 float:right;
+		 border:40px solid #ddffff	;}	
+		 footer {
+		 background-color:#ffddff;
+		  text-align:center;
+		  width:100%;
+		  
+		  text-align: lbottom;
+		  
+			 
+		 }
+		 button{
+			 background-color:#ffffdd;
+			 border:10px solid #ddffff;
+		 }
